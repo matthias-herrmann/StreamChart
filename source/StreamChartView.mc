@@ -11,8 +11,8 @@ class StreamChartView extends WatchUi.View {
 
     // Load your resources here
     function onLayout(dc) {
+        chart = new StreamChart.Chart(dc, null);
         setLayout(Rez.Layouts.MainLayout(dc));
-        chart = new StreamChart.Chart(null);
     }
 
     // Called when this View is brought to the foreground. Restore

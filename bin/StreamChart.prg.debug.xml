@@ -1,49 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="14" pc="268435456" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="15" pc="268435460" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="5" lineNum="19" pc="268435471" symbol="drawYAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="23" pc="268435476" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="24" pc="268435480" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="25" pc="268435516" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="26" pc="268435560" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="27" pc="268435622" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="28" pc="268435696" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="29" pc="268435728" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="30" pc="268435764" symbol="drawXAxis"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="8" lineNum="6" pc="268435779" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="8" lineNum="7" pc="268435783" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="9" lineNum="11" pc="268435802" symbol="onStart"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="10" lineNum="15" pc="268435807" symbol="onStop"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="11" lineNum="19" pc="268435812" symbol="getInitialView"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="11" lineNum="20" pc="268435816" symbol="getInitialView"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="14" lineNum="7" pc="268435884" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="14" lineNum="8" pc="268435888" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="14" lineNum="9" pc="268435898" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="16" lineNum="17" pc="268435909" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="16" lineNum="18" pc="268435913" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="16" lineNum="19" pc="268435923" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="17" lineNum="22" pc="268435934" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="17" lineNum="23" pc="268435938" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="19" lineNum="8" pc="268436007" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="19" lineNum="9" pc="268436011" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="20" lineNum="13" pc="268436030" symbol="onLayout"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="20" lineNum="14" pc="268436034" symbol="onLayout"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="20" lineNum="15" pc="268436071" symbol="onLayout"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="21" lineNum="21" pc="268436107" symbol="onShow"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="22" lineNum="25" pc="268436112" symbol="onUpdate"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="22" lineNum="27" pc="268436116" symbol="onUpdate"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="22" lineNum="28" pc="268436136" symbol="onUpdate"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="23" lineNum="34" pc="268436157" symbol="onHide"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="25" lineNum="4" pc="268436162" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="25" lineNum="5" pc="268436166" symbol="initialize"/>
-        <entry filename="Rez" id="31" lineNum="15" pc="268436185" symbol="MainLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="17" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="18" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="19" pc="268435470" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="20" pc="268435489" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="4" lineNum="21" pc="268435508" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="5" lineNum="24" pc="268435523" symbol="calcChartOutline"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="5" lineNum="25" pc="268435527" symbol="calcChartOutline"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="5" lineNum="26" pc="268435564" symbol="calcChartOutline"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="5" lineNum="27" pc="268435589" symbol="calcChartOutline"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="6" lineNum="31" pc="268435618" symbol="drawYAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="35" pc="268435623" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="36" pc="268435627" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="37" pc="268435663" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="38" pc="268435707" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="39" pc="268435769" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="40" pc="268435843" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="41" pc="268435875" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChart.mc" id="7" lineNum="42" pc="268435911" symbol="drawXAxis"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="9" lineNum="6" pc="268435926" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="9" lineNum="7" pc="268435930" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="10" lineNum="11" pc="268435949" symbol="onStart"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="11" lineNum="15" pc="268435954" symbol="onStop"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="12" lineNum="19" pc="268435959" symbol="getInitialView"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartApp.mc" id="12" lineNum="20" pc="268435963" symbol="getInitialView"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="15" lineNum="7" pc="268436031" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="15" lineNum="8" pc="268436035" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="15" lineNum="9" pc="268436045" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="17" lineNum="17" pc="268436056" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="17" lineNum="18" pc="268436060" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="17" lineNum="19" pc="268436070" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="18" lineNum="22" pc="268436081" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="18" lineNum="23" pc="268436085" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="20" lineNum="8" pc="268436154" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="20" lineNum="9" pc="268436158" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="21" lineNum="13" pc="268436177" symbol="onLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="21" lineNum="14" pc="268436181" symbol="onLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="21" lineNum="15" pc="268436218" symbol="onLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="22" lineNum="21" pc="268436256" symbol="onShow"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="23" lineNum="25" pc="268436261" symbol="onUpdate"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="23" lineNum="27" pc="268436265" symbol="onUpdate"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="23" lineNum="28" pc="268436285" symbol="onUpdate"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="24" lineNum="34" pc="268436306" symbol="onHide"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="26" lineNum="4" pc="268436311" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="26" lineNum="5" pc="268436315" symbol="initialize"/>
+        <entry filename="Rez" id="32" lineNum="15" pc="268436334" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="12" object="true" symbol="StreamChartApp"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="29" method="true" symbol="drawYAxis"/>
+        <entry id="33" method="true" symbol="drawYAxis"/>
         <entry id="23" object="true" symbol="Chart"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
@@ -55,14 +62,15 @@
         <entry field="true" id="27" symbol="devWidth"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
         <entry id="8389123" method="true" symbol="onShow"/>
-        <entry id="31" object="true" symbol="Point"/>
+        <entry field="true" id="31" symbol="xChartRight"/>
+        <entry id="35" object="true" symbol="Point"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry field="true" id="22" symbol="AppName"/>
         <entry field="true" id="28" symbol="contentColor"/>
-        <entry field="true" id="33" symbol="startPoint"/>
+        <entry field="true" id="37" symbol="startPoint"/>
         <entry id="24" module="true" symbol="Geometry"/>
         <entry id="11" module="true" symbol="StreamChart"/>
-        <entry field="true" id="34" symbol="endPoint"/>
+        <entry field="true" id="38" symbol="endPoint"/>
         <entry id="13" object="true" symbol="StreamChartView"/>
         <entry field="true" id="17" symbol="LauncherIcon"/>
         <entry field="true" id="20" symbol="menu_label_2"/>
@@ -73,38 +81,43 @@
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry field="true" id="8389743" symbol="backgroundColor"/>
+        <entry field="true" id="30" symbol="xChartLeftOffset"/>
         <entry id="14" object="true" symbol="StreamChartDelegate"/>
-        <entry id="32" object="true" symbol="Line"/>
+        <entry field="true" id="29" symbol="yChartBottom"/>
+        <entry id="36" object="true" symbol="Line"/>
         <entry id="15" module="true" symbol="Layouts"/>
         <entry field="true" id="21" symbol="prompt"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry field="true" id="26" symbol="devHeight"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-        <entry id="30" method="true" symbol="drawXAxis"/>
+        <entry id="34" method="true" symbol="drawXAxis"/>
+        <entry id="32" method="true" symbol="calcChartOutline"/>
         <entry id="16" module="true" symbol="Menus"/>
         <entry field="true" id="8390079" symbol="y"/>
         <entry field="true" id="8390078" symbol="x"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="35" symbol="chart"/>
+        <entry field="true" id="39" symbol="chart"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435471" name="options" stackId="1" startPc="268435456"/>
-        <entry endPc="268435476" name="dc" stackId="1" startPc="268435471"/>
-        <entry endPc="268435778" name="xLine" stackId="4" startPc="268435480"/>
-        <entry endPc="268435778" name="bottomLeft" stackId="2" startPc="268435480"/>
-        <entry endPc="268435778" name="bottomRight" stackId="3" startPc="268435480"/>
-        <entry endPc="268435779" name="dc" stackId="1" startPc="268435476"/>
-        <entry endPc="268435807" name="state" stackId="1" startPc="268435802"/>
-        <entry endPc="268435812" name="state" stackId="1" startPc="268435807"/>
-        <entry endPc="268435909" name="x" stackId="1" startPc="268435884"/>
-        <entry endPc="268435909" name="y" stackId="2" startPc="268435884"/>
-        <entry endPc="268435934" name="endPoint" stackId="2" startPc="268435909"/>
-        <entry endPc="268435934" name="startPoint" stackId="1" startPc="268435909"/>
-        <entry endPc="268436007" name="dc" stackId="1" startPc="268435934"/>
-        <entry endPc="268436107" name="dc" stackId="1" startPc="268436030"/>
-        <entry endPc="268436157" name="dc" stackId="1" startPc="268436112"/>
-        <entry endPc="268436198" name="dc" stackId="1" startPc="268436185"/>
+        <entry endPc="268435523" name="dc" stackId="1" startPc="268435456"/>
+        <entry endPc="268435523" name="options" stackId="2" startPc="268435456"/>
+        <entry endPc="268435618" name="dc" stackId="1" startPc="268435523"/>
+        <entry endPc="268435623" name="dc" stackId="1" startPc="268435618"/>
+        <entry endPc="268435925" name="xLine" stackId="4" startPc="268435627"/>
+        <entry endPc="268435925" name="bottomLeft" stackId="2" startPc="268435627"/>
+        <entry endPc="268435925" name="bottomRight" stackId="3" startPc="268435627"/>
+        <entry endPc="268435926" name="dc" stackId="1" startPc="268435623"/>
+        <entry endPc="268435954" name="state" stackId="1" startPc="268435949"/>
+        <entry endPc="268435959" name="state" stackId="1" startPc="268435954"/>
+        <entry endPc="268436056" name="x" stackId="1" startPc="268436031"/>
+        <entry endPc="268436056" name="y" stackId="2" startPc="268436031"/>
+        <entry endPc="268436081" name="endPoint" stackId="2" startPc="268436056"/>
+        <entry endPc="268436081" name="startPoint" stackId="1" startPc="268436056"/>
+        <entry endPc="268436154" name="dc" stackId="1" startPc="268436081"/>
+        <entry endPc="268436256" name="dc" stackId="1" startPc="268436177"/>
+        <entry endPc="268436306" name="dc" stackId="1" startPc="268436261"/>
+        <entry endPc="268436347" name="dc" stackId="1" startPc="268436334"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
@@ -119,15 +132,20 @@
         <dataEntry offset="519" parentId="Rez" symbolId="Strings" type="module"/>
         <dataEntry offset="582" parentId="globals" symbolId="StreamChart" type="module"/>
         <dataEntry offset="629" parentId="StreamChart" symbolId="Chart" type="class"/>
-        <dataEntry offset="732" parentId="StreamChart" symbolId="Geometry" type="module"/>
-        <dataEntry offset="779" parentId="Geometry" symbolId="Point" type="class"/>
-        <dataEntry offset="842" parentId="Geometry" symbolId="Line" type="class"/>
-        <dataEntry offset="913" parentId="globals" symbolId="StreamChartView" type="class"/>
-        <dataEntry offset="1000" parentId="globals" symbolId="StreamChartApp" type="class"/>
+        <dataEntry offset="764" parentId="StreamChart" symbolId="Geometry" type="module"/>
+        <dataEntry offset="811" parentId="Geometry" symbolId="Point" type="class"/>
+        <dataEntry offset="874" parentId="Geometry" symbolId="Line" type="class"/>
+        <dataEntry offset="945" parentId="globals" symbolId="StreamChartView" type="class"/>
+        <dataEntry offset="1032" parentId="globals" symbolId="StreamChartApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="Chart">
+            <param id="dc"/>
             <param id="options"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" name="calcChartOutline" parent="Chart">
+            <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="drawYAxis" parent="Chart">

@@ -10,11 +10,23 @@
      hidden var backgroundColor = Graphics.COLOR_WHITE;
      //content like text and axis
      hidden var contentColor = Graphics.COLOR_BLACK;
+     hidden var yChartBottom;
+     hidden var xChartLeftOffset;
+     hidden var xChartRight;
      
-     function initialize(options) {
+     function initialize(dc, options) {
        self.options = options;
+       self.devWidth = dc.getWidth();
+       self.devHeight = dc.getHeight();
+       calcChartOutline(dc);
      }
-
+     
+     hidden function calcChartOutline(dc) {
+     	yChartBottom = dc.getHeight() - dc.getHeight() / 3;
+     	xChartLeftOffset = dc.getWidth() / 10; 
+     	xChartRight = dc.getWidth() - xChartLeftOffset; 
+     } 
+ 
      
      function drawYAxis(dc) {
      
