@@ -12,7 +12,7 @@ module Geometry {
      
      function distanceTo(otherPoint) {
         // formula for calculating distance between two points in 2D space
-      	Math.sqrt(Math.pow(x - otherPoint.x, 2) + Math.pow(y - otherPoint.y, 2));
+      	return Math.sqrt(Math.pow(x - otherPoint.x, 2) + Math.pow(y - otherPoint.y, 2));
      }
    }
    

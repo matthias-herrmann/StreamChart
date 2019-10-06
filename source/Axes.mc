@@ -10,7 +10,7 @@ module Axes {
       line.draw(dc);
     }	
     
-    function getLengthInPixel() {
+    function getLengthInPixels() {
        return line.getLengthInPixels();   
     }	
 		
