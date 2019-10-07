@@ -3,6 +3,8 @@
    using Toybox.Math;
    using Axes;
    using ChartInitialization;
+   using Toybox.System;
+   using MathHelpers as Mh;
  
    class Chart {
      hidden var options;
@@ -22,16 +24,36 @@
        createAxis();
      }
      
-
      function createAxis() {
      	xAxis = new Axes.XAxis(corners["bottomLeftCorner"], corners["bottomRightCorner"]);
      	yAxis = new Axes.YAxis(corners["bottomLeftCorner"], corners["topLeftCorner"]);    
      }
      
+     
      function draw(dc) {
         drawBackground(dc);        
      	xAxis.draw(dc);
-     	yAxis.draw(dc);
+     	yAxis.draw(dc); 
+     	
+     	// coordinate system starts with 0, 0 in the upper left corner of the device screen
+     	var minY = corners["topLeftCorner"];
+     	var maxY = corners["bottomLeftCorner"];
+     	
+     	var allObservedValues = [];
+     	var yPixelValues = [];
+        
+     	for(var i=0; i < 50; ++i) {     		
+     		var rand = Math.rand() % 200 + 1;
+     		allObservedValues.add(rand);     		     		
+     	}      	     	
+     	
+     	var maxObservedValue = Mh.getMaxValueInArray(allObservedValues);
+     	var minObservedValue = Mh.getMinValueInArray(allObservedValues);
+        
+        for(var i=0; i < 50; ++i) {
+          // var yValScaled = Mh.scaleValIntoRange(allObservedValues[i], maxObservedValue, minObservedValue, 0, 200);
+          // yPixelValues.add(yValScaled);
+        }                   
      }
      
      function drawBackground(dc)  {
