@@ -1,5 +1,9 @@
 module MathHelpers {
 
+   function normalizeValues(val, minObserved, maxObserved) {
+       return (val - minObserved) / (maxObserved - minObserved);
+   }
+   
    function scaleValIntoRange(val, maxObserved, minObserved, lowerBoundary, upperBoundary) {
        return (upperBoundary - lowerBoundary) * ((val - minObserved) / (maxObserved - minObserved)) + lowerBoundary;
    }
@@ -11,14 +15,11 @@ module MathHelpers {
         if(maxSeen == null) {
           maxSeen = array[i];                 
         }
-        else {
-          if( maxSeen < array[i]) {
-            maxSeen = array[i];
-          }
-        }
-        
-      return maxSeen;                
-     }    
+        else if(maxSeen < array[i]) {
+          maxSeen = array[i];          
+        }                              
+     }  
+     return maxSeen;  
    }  
    
    function getMinValueInArray(array) {
@@ -28,14 +29,10 @@ module MathHelpers {
         if(minSeen == null) {
           minSeen = array[i];                 
         }
-        else {
-          if( minSeen > array[i]) {
-            minSeen = array[i];
-          }
-        }
-        
-      return minSeen;                
-     }  
-   
+        else if (minSeen > array[i]) {          
+          minSeen = array[i];          
+        }                              
+     }
+     return minSeen;     
    }    
 }

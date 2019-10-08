@@ -4,6 +4,7 @@
    using Axes;
    using ChartInitialization;
    using Toybox.System;
+   using Geometry as Geo;
    using MathHelpers as Mh;
  
    class Chart {
@@ -35,25 +36,46 @@
      	xAxis.draw(dc);
      	yAxis.draw(dc); 
      	
-     	// coordinate system starts with 0, 0 in the upper left corner of the device screen
-     	var minY = corners["topLeftCorner"];
-     	var maxY = corners["bottomLeftCorner"];
      	
-     	var allObservedValues = [];
-     	var yPixelValues = [];
+     	var maxY = corners["topLeftCorner"].y.toDouble();
+     	var minY = corners["bottomLeftCorner"].y.toDouble();
+     	var minX = corners["bottomLeftCorner"].x.toDouble();     	    	
+     	
+     	var allObservedValues = new [50];
+     	var yRelativePixels = new [50];
         
      	for(var i=0; i < 50; ++i) {     		
      		var rand = Math.rand() % 200 + 1;
-     		allObservedValues.add(rand);     		     		
+     		allObservedValues[i] = rand.toDouble();     		     		
      	}      	     	
      	
-     	var maxObservedValue = Mh.getMaxValueInArray(allObservedValues);
-     	var minObservedValue = Mh.getMinValueInArray(allObservedValues);
-        
+     	var maxObservedValue = Mh.getMaxValueInArray(allObservedValues).toDouble();
+     	var minObservedValue = Mh.getMinValueInArray(allObservedValues).toDouble();
+                
         for(var i=0; i < 50; ++i) {
-          // var yValScaled = Mh.scaleValIntoRange(allObservedValues[i], maxObservedValue, minObservedValue, 0, 200);
-          // yPixelValues.add(yValScaled);
-        }                   
+          var observedValue = allObservedValues[i];          
+          // coordinate system starts with 0, 0 in the upper left corner of the device screen => min and max swapped for y                             
+          yRelativePixels[i] = Mh.scaleValIntoRange(observedValue, minObservedValue, maxObservedValue, maxY, minY);                                
+        }   
+                
+        dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_GREEN);
+                        
+        // construct and draw lines
+        for(var i=1; i < 50; ++i) {
+          var x1 = minX + xAxis.getLengthInPixels() * (i.toDouble() / 50.0d);                  
+          var x2 = minX + xAxis.getLengthInPixels() * ((i.toDouble() + 1) / 50.0d);
+            
+          var y1 = yRelativePixels[i-1];
+          var y2 = yRelativePixels[i];
+          
+          //dc.drawLine(x1, y1, x2, y2);
+          
+          var point1 = new Geo.Point(x1, y1);
+          var point2 = new Geo.Point(x2, y2);
+          var line = new Geo.Line(point1, point2);    
+          line.draw(dc);   
+        }
+                       
      }
      
      function drawBackground(dc)  {
