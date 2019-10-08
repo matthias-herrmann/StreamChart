@@ -3,124 +3,124 @@
 <pcToLineNum>
 <entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="4" lineNum="8" pc="268435456" symbol="initialize"/>
 <entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="4" lineNum="9" pc="268435460" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="4" lineNum="10" pc="268435470" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="5" lineNum="13" pc="268435481" symbol="distanceTo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="5" lineNum="15" pc="268435485" symbol="distanceTo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="24" pc="268435577" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="25" pc="268435581" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="26" pc="268435591" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="27" pc="268435601" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="8" lineNum="30" pc="268435623" symbol="getLengthInPixels"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="8" lineNum="31" pc="268435627" symbol="getLengthInPixels"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="9" lineNum="34" pc="268435637" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="9" lineNum="35" pc="268435641" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="21" pc="268435710" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="22" pc="268435714" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="23" pc="268435724" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="24" pc="268435749" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="25" pc="268435780" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="13" lineNum="28" pc="268435793" symbol="createAxis"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="13" lineNum="29" pc="268435797" symbol="createAxis"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="13" lineNum="30" pc="268435859" symbol="createAxis"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="34" pc="268435922" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="35" pc="268435926" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="36" pc="268435940" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="37" pc="268435960" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="40" pc="268435980" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="41" pc="268436011" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="42" pc="268436042" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="44" pc="268436073" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="45" pc="268436081" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="47" pc="268436089" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="48" pc="268436107" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="49" pc="268436136" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="52" pc="268436165" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="53" pc="268436193" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="55" pc="268436221" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="56" pc="268436239" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="58" pc="268436246" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="61" pc="268436289" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="64" pc="268436325" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="65" pc="268436343" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="66" pc="268436387" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="68" pc="268436437" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="69" pc="268436450" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="73" pc="268436457" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="74" pc="268436489" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="75" pc="268436521" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="76" pc="268436553" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="15" lineNum="81" pc="268436581" symbol="drawBackground"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="15" lineNum="82" pc="268436585" symbol="drawBackground"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="15" lineNum="83" pc="268436621" symbol="drawBackground"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="4" pc="268436666" symbol="createDeviceScreenInfo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="5" pc="268436678" symbol="createDeviceScreenInfo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="6" pc="268436691" symbol="createDeviceScreenInfo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="7" pc="268436704" symbol="createDeviceScreenInfo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="9" pc="268436750" symbol="createDeviceScreenInfo"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="15" pc="268436788" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="16" pc="268436800" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="17" pc="268436810" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="19" pc="268436820" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="20" pc="268436866" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="21" pc="268436885" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="23" pc="268436907" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="24" pc="268436951" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="25" pc="268437001" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="26" pc="268437051" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="28" pc="268437085" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="29" pc="268437135" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="30" pc="268437169" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="32" pc="268437203" symbol="createCorners"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartDelegate.mc" id="20" lineNum="4" pc="268437241" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartDelegate.mc" id="20" lineNum="5" pc="268437245" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="23" lineNum="8" pc="268437264" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="23" lineNum="9" pc="268437268" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="23" lineNum="10" pc="268437308" symbol="draw"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="24" lineNum="13" pc="268437329" symbol="getLengthInPixels"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="24" lineNum="14" pc="268437333" symbol="getLengthInPixels"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="25" lineNum="17" pc="268437352" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="25" lineNum="18" pc="268437356" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="27" lineNum="26" pc="268437395" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="27" lineNum="27" pc="268437399" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="29" lineNum="34" pc="268437422" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="29" lineNum="35" pc="268437426" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="31" lineNum="8" pc="268437449" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="31" lineNum="9" pc="268437453" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="32" lineNum="13" pc="268437472" symbol="onLayout"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="32" lineNum="14" pc="268437476" symbol="onLayout"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="32" lineNum="15" pc="268437513" symbol="onLayout"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="33" lineNum="21" pc="268437551" symbol="onShow"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="34" lineNum="25" pc="268437556" symbol="onUpdate"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="34" lineNum="27" pc="268437560" symbol="onUpdate"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="34" lineNum="28" pc="268437580" symbol="onUpdate"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="35" lineNum="34" pc="268437601" symbol="onHide"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="37" lineNum="3" pc="268437606" symbol="normalizeValues"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="37" lineNum="4" pc="268437618" symbol="normalizeValues"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="38" lineNum="7" pc="268437631" symbol="scaleValIntoRange"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="38" lineNum="8" pc="268437643" symbol="scaleValIntoRange"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="11" pc="268437665" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="12" pc="268437677" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="14" pc="268437680" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="15" pc="268437704" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="16" pc="268437711" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="18" pc="268437721" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="19" pc="268437732" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="22" pc="268437755" symbol="getMaxValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="25" pc="268437759" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="26" pc="268437771" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="28" pc="268437774" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="29" pc="268437798" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="30" pc="268437805" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="32" pc="268437815" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="33" pc="268437826" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="36" pc="268437849" symbol="getMinValueInArray"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="42" lineNum="6" pc="268437853" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="42" lineNum="7" pc="268437857" symbol="initialize"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="43" lineNum="11" pc="268437876" symbol="onStart"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="44" lineNum="15" pc="268437881" symbol="onStop"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="45" lineNum="19" pc="268437886" symbol="getInitialView"/>
-<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="45" lineNum="20" pc="268437890" symbol="getInitialView"/>
-<entry filename="Rez" id="51" lineNum="15" pc="268437958" symbol="MainLayout"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="4" lineNum="10" pc="268435479" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="5" lineNum="13" pc="268435499" symbol="distanceTo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="5" lineNum="15" pc="268435503" symbol="distanceTo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="24" pc="268435595" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="25" pc="268435599" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="26" pc="268435609" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="7" lineNum="27" pc="268435619" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="8" lineNum="30" pc="268435641" symbol="getLengthInPixels"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="8" lineNum="31" pc="268435645" symbol="getLengthInPixels"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="9" lineNum="34" pc="268435655" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Geometry.mc" id="9" lineNum="35" pc="268435659" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="21" pc="268435728" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="22" pc="268435732" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="23" pc="268435742" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="24" pc="268435767" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="12" lineNum="25" pc="268435798" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="13" lineNum="28" pc="268435811" symbol="createAxis"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="13" lineNum="29" pc="268435815" symbol="createAxis"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="13" lineNum="30" pc="268435877" symbol="createAxis"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="34" pc="268435940" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="35" pc="268435944" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="36" pc="268435958" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="37" pc="268435978" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="40" pc="268435998" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="41" pc="268436029" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="42" pc="268436060" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="44" pc="268436091" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="45" pc="268436099" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="47" pc="268436107" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="48" pc="268436125" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="49" pc="268436154" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="52" pc="268436183" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="53" pc="268436211" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="55" pc="268436239" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="56" pc="268436257" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="58" pc="268436264" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="61" pc="268436307" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="64" pc="268436343" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="65" pc="268436361" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="66" pc="268436405" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="68" pc="268436455" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="69" pc="268436468" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="71" pc="268436475" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="72" pc="268436507" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="73" pc="268436539" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="14" lineNum="74" pc="268436571" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="15" lineNum="78" pc="268436599" symbol="drawBackground"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="15" lineNum="79" pc="268436603" symbol="drawBackground"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChart.mc" id="15" lineNum="80" pc="268436639" symbol="drawBackground"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="4" pc="268436684" symbol="createDeviceScreenInfo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="5" pc="268436696" symbol="createDeviceScreenInfo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="6" pc="268436709" symbol="createDeviceScreenInfo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="7" pc="268436722" symbol="createDeviceScreenInfo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="17" lineNum="9" pc="268436768" symbol="createDeviceScreenInfo"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="15" pc="268436806" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="16" pc="268436818" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="17" pc="268436828" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="19" pc="268436838" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="20" pc="268436884" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="21" pc="268436903" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="23" pc="268436925" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="24" pc="268436969" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="25" pc="268437019" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="26" pc="268437069" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="28" pc="268437103" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="29" pc="268437153" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="30" pc="268437187" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/ChartInitialization.mc" id="18" lineNum="32" pc="268437221" symbol="createCorners"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartDelegate.mc" id="20" lineNum="4" pc="268437259" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartDelegate.mc" id="20" lineNum="5" pc="268437263" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="23" lineNum="8" pc="268437282" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="23" lineNum="9" pc="268437286" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="23" lineNum="10" pc="268437326" symbol="draw"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="24" lineNum="13" pc="268437347" symbol="getLengthInPixels"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="24" lineNum="14" pc="268437351" symbol="getLengthInPixels"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="25" lineNum="17" pc="268437370" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="25" lineNum="18" pc="268437374" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="27" lineNum="26" pc="268437413" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="27" lineNum="27" pc="268437417" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="29" lineNum="34" pc="268437440" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/Axes.mc" id="29" lineNum="35" pc="268437444" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="31" lineNum="8" pc="268437467" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="31" lineNum="9" pc="268437471" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="32" lineNum="13" pc="268437490" symbol="onLayout"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="32" lineNum="14" pc="268437494" symbol="onLayout"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="32" lineNum="15" pc="268437531" symbol="onLayout"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="33" lineNum="21" pc="268437569" symbol="onShow"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="34" lineNum="25" pc="268437574" symbol="onUpdate"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="34" lineNum="27" pc="268437578" symbol="onUpdate"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="34" lineNum="28" pc="268437598" symbol="onUpdate"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartView.mc" id="35" lineNum="34" pc="268437619" symbol="onHide"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="37" lineNum="3" pc="268437624" symbol="normalizeValues"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="37" lineNum="4" pc="268437636" symbol="normalizeValues"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="38" lineNum="7" pc="268437649" symbol="scaleValIntoRange"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="38" lineNum="8" pc="268437661" symbol="scaleValIntoRange"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="11" pc="268437683" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="12" pc="268437695" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="14" pc="268437698" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="15" pc="268437722" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="16" pc="268437729" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="18" pc="268437739" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="19" pc="268437750" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="39" lineNum="22" pc="268437773" symbol="getMaxValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="25" pc="268437777" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="26" pc="268437789" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="28" pc="268437792" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="29" pc="268437816" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="30" pc="268437823" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="32" pc="268437833" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="33" pc="268437844" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/MathHelpers.mc" id="40" lineNum="36" pc="268437867" symbol="getMinValueInArray"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="42" lineNum="6" pc="268437871" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="42" lineNum="7" pc="268437875" symbol="initialize"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="43" lineNum="11" pc="268437894" symbol="onStart"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="44" lineNum="15" pc="268437899" symbol="onStop"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="45" lineNum="19" pc="268437904" symbol="getInitialView"/>
+<entry filename="/home/mherrmann/workspace/StreamChart/source/StreamChartApp.mc" id="45" lineNum="20" pc="268437908" symbol="getInitialView"/>
+<entry filename="Rez" id="51" lineNum="15" pc="268437976" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
@@ -189,78 +189,78 @@
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435481" name="x" stackId="1" startPc="268435456"/>
-<entry endPc="268435481" name="y" stackId="2" startPc="268435456"/>
-<entry endPc="268435577" name="otherPoint" stackId="1" startPc="268435481"/>
-<entry endPc="268435623" name="endPoint" stackId="2" startPc="268435577"/>
-<entry endPc="268435623" name="startPoint" stackId="1" startPc="268435577"/>
-<entry endPc="268435710" name="dc" stackId="1" startPc="268435637"/>
-<entry endPc="268435793" name="dc" stackId="1" startPc="268435710"/>
-<entry endPc="268435793" name="options" stackId="2" startPc="268435710"/>
-<entry endPc="268436152" name="rand" stackId="8" startPc="268436107"/>
-<entry endPc="268436165" name="i" stackId="7" startPc="268436107"/>
-<entry endPc="268436276" name="observedValue" stackId="12" startPc="268436239"/>
-<entry endPc="268436289" name="i" stackId="11" startPc="268436239"/>
-<entry endPc="268436567" name="line" stackId="20" startPc="268436343"/>
-<entry endPc="268436567" name="x2" stackId="15" startPc="268436343"/>
-<entry endPc="268436567" name="x1" stackId="14" startPc="268436343"/>
-<entry endPc="268436567" name="point2" stackId="19" startPc="268436343"/>
-<entry endPc="268436567" name="y2" stackId="17" startPc="268436343"/>
-<entry endPc="268436567" name="point1" stackId="18" startPc="268436343"/>
-<entry endPc="268436567" name="y1" stackId="16" startPc="268436343"/>
-<entry endPc="268436580" name="i" stackId="13" startPc="268436343"/>
-<entry endPc="268436580" name="minX" stackId="4" startPc="268435926"/>
-<entry endPc="268436580" name="yRelativePixels" stackId="6" startPc="268435926"/>
-<entry endPc="268436580" name="allObservedValues" stackId="5" startPc="268435926"/>
-<entry endPc="268436580" name="maxY" stackId="2" startPc="268435926"/>
-<entry endPc="268436580" name="minObservedValue" stackId="10" startPc="268435926"/>
-<entry endPc="268436580" name="maxObservedValue" stackId="9" startPc="268435926"/>
-<entry endPc="268436580" name="minY" stackId="3" startPc="268435926"/>
-<entry endPc="268436581" name="dc" stackId="1" startPc="268435922"/>
-<entry endPc="268436666" name="dc" stackId="1" startPc="268436581"/>
-<entry endPc="268436787" name="devWidth" stackId="3" startPc="268436678"/>
-<entry endPc="268436787" name="devHeight" stackId="2" startPc="268436678"/>
-<entry endPc="268436787" name="devMidpoint" stackId="4" startPc="268436678"/>
-<entry endPc="268436788" name="dc" stackId="1" startPc="268436666"/>
-<entry endPc="268437240" name="topY" stackId="9" startPc="268436800"/>
-<entry endPc="268437240" name="devMidpoint" stackId="4" startPc="268436800"/>
-<entry endPc="268437240" name="devHeight" stackId="3" startPc="268436800"/>
-<entry endPc="268437240" name="leftX" stackId="7" startPc="268436800"/>
-<entry endPc="268437240" name="bottomY" stackId="11" startPc="268436800"/>
-<entry endPc="268437240" name="rightX" stackId="8" startPc="268436800"/>
-<entry endPc="268437240" name="bottomLeftCorner" stackId="12" startPc="268436800"/>
-<entry endPc="268437240" name="bottomRightCorner" stackId="13" startPc="268436800"/>
-<entry endPc="268437240" name="topLeftCorner" stackId="10" startPc="268436800"/>
-<entry endPc="268437240" name="radiusWithMargin" stackId="5" startPc="268436800"/>
-<entry endPc="268437240" name="widthToHeightRad" stackId="6" startPc="268436800"/>
-<entry endPc="268437240" name="devWidth" stackId="2" startPc="268436800"/>
-<entry endPc="268437241" name="deviceScreenInfo" stackId="1" startPc="268436788"/>
-<entry endPc="268437329" name="dc" stackId="1" startPc="268437264"/>
-<entry endPc="268437395" name="p2" stackId="2" startPc="268437352"/>
-<entry endPc="268437395" name="p1" stackId="1" startPc="268437352"/>
-<entry endPc="268437422" name="p2" stackId="2" startPc="268437395"/>
-<entry endPc="268437422" name="p1" stackId="1" startPc="268437395"/>
-<entry endPc="268437449" name="p2" stackId="2" startPc="268437422"/>
-<entry endPc="268437449" name="p1" stackId="1" startPc="268437422"/>
-<entry endPc="268437551" name="dc" stackId="1" startPc="268437472"/>
-<entry endPc="268437601" name="dc" stackId="1" startPc="268437556"/>
-<entry endPc="268437631" name="maxObserved" stackId="3" startPc="268437606"/>
-<entry endPc="268437631" name="minObserved" stackId="2" startPc="268437606"/>
-<entry endPc="268437631" name="val" stackId="1" startPc="268437606"/>
-<entry endPc="268437665" name="lowerBoundary" stackId="4" startPc="268437631"/>
-<entry endPc="268437665" name="maxObserved" stackId="2" startPc="268437631"/>
-<entry endPc="268437665" name="minObserved" stackId="3" startPc="268437631"/>
-<entry endPc="268437665" name="upperBoundary" stackId="5" startPc="268437631"/>
-<entry endPc="268437665" name="val" stackId="1" startPc="268437631"/>
-<entry endPc="268437755" name="i" stackId="3" startPc="268437704"/>
-<entry endPc="268437758" name="maxSeen" stackId="2" startPc="268437677"/>
-<entry endPc="268437759" name="array" stackId="1" startPc="268437665"/>
-<entry endPc="268437849" name="i" stackId="3" startPc="268437798"/>
-<entry endPc="268437852" name="minSeen" stackId="2" startPc="268437771"/>
-<entry endPc="268437853" name="array" stackId="1" startPc="268437759"/>
-<entry endPc="268437881" name="state" stackId="1" startPc="268437876"/>
-<entry endPc="268437886" name="state" stackId="1" startPc="268437881"/>
-<entry endPc="268437971" name="dc" stackId="1" startPc="268437958"/>
+<entry endPc="268435499" name="x" stackId="1" startPc="268435456"/>
+<entry endPc="268435499" name="y" stackId="2" startPc="268435456"/>
+<entry endPc="268435595" name="otherPoint" stackId="1" startPc="268435499"/>
+<entry endPc="268435641" name="endPoint" stackId="2" startPc="268435595"/>
+<entry endPc="268435641" name="startPoint" stackId="1" startPc="268435595"/>
+<entry endPc="268435728" name="dc" stackId="1" startPc="268435655"/>
+<entry endPc="268435811" name="dc" stackId="1" startPc="268435728"/>
+<entry endPc="268435811" name="options" stackId="2" startPc="268435728"/>
+<entry endPc="268436170" name="rand" stackId="8" startPc="268436125"/>
+<entry endPc="268436183" name="i" stackId="7" startPc="268436125"/>
+<entry endPc="268436294" name="observedValue" stackId="12" startPc="268436257"/>
+<entry endPc="268436307" name="i" stackId="11" startPc="268436257"/>
+<entry endPc="268436585" name="line" stackId="20" startPc="268436361"/>
+<entry endPc="268436585" name="x2" stackId="15" startPc="268436361"/>
+<entry endPc="268436585" name="x1" stackId="14" startPc="268436361"/>
+<entry endPc="268436585" name="point2" stackId="19" startPc="268436361"/>
+<entry endPc="268436585" name="y2" stackId="17" startPc="268436361"/>
+<entry endPc="268436585" name="point1" stackId="18" startPc="268436361"/>
+<entry endPc="268436585" name="y1" stackId="16" startPc="268436361"/>
+<entry endPc="268436598" name="i" stackId="13" startPc="268436361"/>
+<entry endPc="268436598" name="minX" stackId="4" startPc="268435944"/>
+<entry endPc="268436598" name="yRelativePixels" stackId="6" startPc="268435944"/>
+<entry endPc="268436598" name="allObservedValues" stackId="5" startPc="268435944"/>
+<entry endPc="268436598" name="maxY" stackId="2" startPc="268435944"/>
+<entry endPc="268436598" name="minObservedValue" stackId="10" startPc="268435944"/>
+<entry endPc="268436598" name="maxObservedValue" stackId="9" startPc="268435944"/>
+<entry endPc="268436598" name="minY" stackId="3" startPc="268435944"/>
+<entry endPc="268436599" name="dc" stackId="1" startPc="268435940"/>
+<entry endPc="268436684" name="dc" stackId="1" startPc="268436599"/>
+<entry endPc="268436805" name="devWidth" stackId="3" startPc="268436696"/>
+<entry endPc="268436805" name="devHeight" stackId="2" startPc="268436696"/>
+<entry endPc="268436805" name="devMidpoint" stackId="4" startPc="268436696"/>
+<entry endPc="268436806" name="dc" stackId="1" startPc="268436684"/>
+<entry endPc="268437258" name="topY" stackId="9" startPc="268436818"/>
+<entry endPc="268437258" name="devMidpoint" stackId="4" startPc="268436818"/>
+<entry endPc="268437258" name="devHeight" stackId="3" startPc="268436818"/>
+<entry endPc="268437258" name="leftX" stackId="7" startPc="268436818"/>
+<entry endPc="268437258" name="bottomY" stackId="11" startPc="268436818"/>
+<entry endPc="268437258" name="rightX" stackId="8" startPc="268436818"/>
+<entry endPc="268437258" name="bottomLeftCorner" stackId="12" startPc="268436818"/>
+<entry endPc="268437258" name="bottomRightCorner" stackId="13" startPc="268436818"/>
+<entry endPc="268437258" name="topLeftCorner" stackId="10" startPc="268436818"/>
+<entry endPc="268437258" name="radiusWithMargin" stackId="5" startPc="268436818"/>
+<entry endPc="268437258" name="widthToHeightRad" stackId="6" startPc="268436818"/>
+<entry endPc="268437258" name="devWidth" stackId="2" startPc="268436818"/>
+<entry endPc="268437259" name="deviceScreenInfo" stackId="1" startPc="268436806"/>
+<entry endPc="268437347" name="dc" stackId="1" startPc="268437282"/>
+<entry endPc="268437413" name="p2" stackId="2" startPc="268437370"/>
+<entry endPc="268437413" name="p1" stackId="1" startPc="268437370"/>
+<entry endPc="268437440" name="p2" stackId="2" startPc="268437413"/>
+<entry endPc="268437440" name="p1" stackId="1" startPc="268437413"/>
+<entry endPc="268437467" name="p2" stackId="2" startPc="268437440"/>
+<entry endPc="268437467" name="p1" stackId="1" startPc="268437440"/>
+<entry endPc="268437569" name="dc" stackId="1" startPc="268437490"/>
+<entry endPc="268437619" name="dc" stackId="1" startPc="268437574"/>
+<entry endPc="268437649" name="maxObserved" stackId="3" startPc="268437624"/>
+<entry endPc="268437649" name="minObserved" stackId="2" startPc="268437624"/>
+<entry endPc="268437649" name="val" stackId="1" startPc="268437624"/>
+<entry endPc="268437683" name="lowerBoundary" stackId="4" startPc="268437649"/>
+<entry endPc="268437683" name="maxObserved" stackId="2" startPc="268437649"/>
+<entry endPc="268437683" name="minObserved" stackId="3" startPc="268437649"/>
+<entry endPc="268437683" name="upperBoundary" stackId="5" startPc="268437649"/>
+<entry endPc="268437683" name="val" stackId="1" startPc="268437649"/>
+<entry endPc="268437773" name="i" stackId="3" startPc="268437722"/>
+<entry endPc="268437776" name="maxSeen" stackId="2" startPc="268437695"/>
+<entry endPc="268437777" name="array" stackId="1" startPc="268437683"/>
+<entry endPc="268437867" name="i" stackId="3" startPc="268437816"/>
+<entry endPc="268437870" name="minSeen" stackId="2" startPc="268437789"/>
+<entry endPc="268437871" name="array" stackId="1" startPc="268437777"/>
+<entry endPc="268437899" name="state" stackId="1" startPc="268437894"/>
+<entry endPc="268437904" name="state" stackId="1" startPc="268437899"/>
+<entry endPc="268437989" name="dc" stackId="1" startPc="268437976"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>

@@ -12,8 +12,8 @@
              
      // axis                         
      hidden var xAxis;
-     hidden var yAxis;     
-     
+     hidden var yAxis;
+          
      // dimensions
      hidden var corners;
      hidden var deviceScreenInfo;
@@ -31,7 +31,7 @@
      }
      
      
-     function draw(dc) {
+     function draw(dc) {            
         drawBackground(dc);        
      	xAxis.draw(dc);
      	yAxis.draw(dc); 
@@ -59,7 +59,7 @@
         }   
                 
         dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_GREEN);
-                        
+                               
         // construct and draw lines
         for(var i=1; i < 50; ++i) {
           var x1 = minX + xAxis.getLengthInPixels() * (i.toDouble() / 50.0d);                  
@@ -67,15 +67,12 @@
             
           var y1 = yRelativePixels[i-1];
           var y2 = yRelativePixels[i];
-          
-          //dc.drawLine(x1, y1, x2, y2);
-          
+                             
           var point1 = new Geo.Point(x1, y1);
           var point2 = new Geo.Point(x2, y2);
           var line = new Geo.Line(point1, point2);    
           line.draw(dc);   
-        }
-                       
+        }                                           
      }
      
      function drawBackground(dc)  {

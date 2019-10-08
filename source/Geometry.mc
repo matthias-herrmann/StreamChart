@@ -6,8 +6,8 @@ module Geometry {
      var y; 
       
      function initialize(x, y) {
-       self.x = x;
-       self.y = y;
+       self.x = x.toDouble();
+       self.y = y.toDouble();
      }
      
      function distanceTo(otherPoint) {
