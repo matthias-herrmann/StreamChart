@@ -52,7 +52,7 @@
         for(var i=0; i < 50; ++i) {
           var observedValue = allObservedValues[i];          
           // coordinate system starts with 0, 0 in the upper left corner of the device screen => min and max swapped for y                             
-          yRelativePixels[i] = Mh.scaleValIntoRange(observedValue, minObservedValue, maxObservedValue, maxY, minY);                                
+          yRelativePixels[i] = Mh.scaleValIntoRange(observedValue, minObservedValue, maxObservedValue, maxY+(yAxis.getLengthInPixels()/4), minY);                                
         }   
                 
         dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_GREEN);
