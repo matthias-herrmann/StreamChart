@@ -33,10 +33,7 @@
      
      function draw(dc) {            
         drawBackground(dc);        
-     	xAxis.draw(dc);
-     	yAxis.draw(dc); 
-     	
-     	
+     	     
      	var maxY = corners["topLeftCorner"].y.toDouble();
      	var minY = corners["bottomLeftCorner"].y.toDouble();
      	var minX = corners["bottomLeftCorner"].x.toDouble();     	    	
@@ -62,8 +59,8 @@
                                
         // construct and draw lines
         for(var i=1; i < 50; ++i) {
-          var x1 = minX + xAxis.getLengthInPixels() * (i.toDouble() / 50.0d);                  
-          var x2 = minX + xAxis.getLengthInPixels() * ((i.toDouble() + 1) / 50.0d);
+          var x1 = minX + xAxis.getLengthInPixels() * ((i - 1) / 50.0d);                  
+          var x2 = minX + xAxis.getLengthInPixels() * (i / 50.0d);
             
           var y1 = yRelativePixels[i-1];
           var y2 = yRelativePixels[i];
@@ -72,7 +69,9 @@
           var point2 = new Geo.Point(x2, y2);
           var line = new Geo.Line(point1, point2);    
           line.draw(dc);   
-        }                                           
+        }   
+        xAxis.draw(dc);
+     	yAxis.draw(dc);                                         
      }
      
      function drawBackground(dc)  {
