@@ -30,8 +30,13 @@ module Axes {
 		
    // classes for strong typing
   class XAxis extends Axis {
-  
-     function genSubDivsionLines() {
+         
+    function initialize(p1, p2) {      
+	  Axis.initialize(p1, p2);	 
+	  genSubDivisionLines(); 
+     }
+     
+     function genSubDivisionLines() {
        var originX = line.getStartPoint().x;
        var bottomY = line.getStartPoint().y; 
        
@@ -39,18 +44,11 @@ module Axes {
          var xPointOfLine = originX + (i/4.0d) * getLengthInPixels();
          var subdivisionLine = new Geometry.Line(
          						   new Geometry.Point(xPointOfLine, bottomY),
-         						   new Geometry.Point(xPointOfLine, bottomY - 10)
+         						   new Geometry.Point(xPointOfLine, bottomY + 5)
          						   );
          subdivisionLines.add(subdivisionLine);
        }
-     }
-    
-       
-    function initialize(p1, p2) {
-	  Axis.initialize(p1, p2);
-	  self.genSubDivisionLines();
-     }
-         
+     }         
    }
 		
 		
@@ -58,10 +56,21 @@ module Axes {
     
     function initialize(p1, p2) {
       Axis.initialize(p1, p2);
+      genSubDivisionLines();
 	}
 	
 	function genSubDivisionLines() {
-	
+		var bottomY = line.getStartPoint().y;
+		var originX = line.getStartPoint().x;
+		
+		for(var i=1; i < 4; ++i) {
+			var yPointOfLine = bottomY - (i/4.0d) * getLengthInPixels();
+			var subdivisionLine = new Geometry.Line(
+			                      	new Geometry.Point(originX, yPointOfLine),
+			                      	new Geometry.Point(originX - 5, yPointOfLine)
+			                      	);
+		    subdivisionLines.add(subdivisionLine);
+		}
 	}
    }	
 	
