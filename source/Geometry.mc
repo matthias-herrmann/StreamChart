@@ -17,9 +17,9 @@ module Geometry {
    }
    
    class Line {
-     var startPoint;
-     var endPoint;
-     var lengthInPixels;
+     private var startPoint;
+     private var endPoint;
+     private var lengthInPixels;
           
      function initialize(startPoint, endPoint) {
        self.startPoint = startPoint;
@@ -29,6 +29,14 @@ module Geometry {
      
      function getLengthInPixels() {
        return lengthInPixels; 
+     }
+     
+     function getStartPoint() {
+       return startPoint;
+     }
+     
+     function getEndPoint() {
+       return endPoint;
      }
      
      function draw(dc) {
