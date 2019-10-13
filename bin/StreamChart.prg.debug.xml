@@ -81,97 +81,96 @@
         <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="62" pc="268437414" symbol="draw"/>
         <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="63" pc="268437446" symbol="draw"/>
         <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="64" pc="268437459" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="65" pc="268437479" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="66" pc="268437510" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="68" pc="268437550" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="73" pc="268437594" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="74" pc="268437640" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="75" pc="268437686" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="76" pc="268437722" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="77" pc="268437736" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="78" pc="268437772" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="79" pc="268437796" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="22" lineNum="3" pc="268437827" symbol="normalizeValues"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="22" lineNum="4" pc="268437839" symbol="normalizeValues"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="23" lineNum="7" pc="268437852" symbol="scaleValIntoRange"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="23" lineNum="8" pc="268437864" symbol="scaleValIntoRange"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="11" pc="268437886" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="12" pc="268437898" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="14" pc="268437901" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="15" pc="268437925" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="16" pc="268437932" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="18" pc="268437942" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="19" pc="268437953" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="22" pc="268437976" symbol="getMaxValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="25" pc="268437980" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="26" pc="268437992" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="28" pc="268437995" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="29" pc="268438019" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="30" pc="268438026" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="32" pc="268438036" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="33" pc="268438047" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="36" pc="268438070" symbol="getMinValueInArray"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="28" lineNum="8" pc="268438074" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="28" lineNum="9" pc="268438078" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="28" lineNum="10" pc="268438097" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="29" lineNum="13" pc="268438117" symbol="distanceTo"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="29" lineNum="15" pc="268438121" symbol="distanceTo"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="24" pc="268438213" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="25" pc="268438217" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="26" pc="268438227" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="27" pc="268438237" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="32" lineNum="30" pc="268438259" symbol="getLengthInPixels"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="32" lineNum="31" pc="268438263" symbol="getLengthInPixels"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="33" lineNum="34" pc="268438273" symbol="getStartPoint"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="33" lineNum="35" pc="268438277" symbol="getStartPoint"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="34" lineNum="38" pc="268438287" symbol="getEndPoint"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="34" lineNum="39" pc="268438291" symbol="getEndPoint"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="35" lineNum="42" pc="268438301" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="35" lineNum="43" pc="268438305" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="37" lineNum="8" pc="268438374" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="37" lineNum="9" pc="268438378" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="38" lineNum="13" pc="268438397" symbol="onLayout"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="38" lineNum="14" pc="268438401" symbol="onLayout"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="38" lineNum="15" pc="268438438" symbol="onLayout"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="39" lineNum="21" pc="268438476" symbol="onShow"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="40" lineNum="25" pc="268438481" symbol="onUpdate"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="40" lineNum="27" pc="268438485" symbol="onUpdate"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="40" lineNum="28" pc="268438505" symbol="onUpdate"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="41" lineNum="34" pc="268438526" symbol="onHide"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="43" lineNum="4" pc="268438531" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="43" lineNum="5" pc="268438535" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="10" pc="268438554" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="11" pc="268438558" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="12" pc="268438598" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="13" pc="268438618" symbol="draw"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="47" lineNum="16" pc="268438633" symbol="getLengthInPixels"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="47" lineNum="17" pc="268438637" symbol="getLengthInPixels"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="48" lineNum="20" pc="268438656" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="48" lineNum="21" pc="268438660" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="49" lineNum="24" pc="268438699" symbol="drawSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="49" lineNum="25" pc="268438703" symbol="drawSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="49" lineNum="26" pc="268438733" symbol="drawSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="51" lineNum="34" pc="268438770" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="51" lineNum="35" pc="268438774" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="51" lineNum="36" pc="268438796" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="39" pc="268438809" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="40" pc="268438813" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="41" pc="268438838" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="43" pc="268438863" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="44" pc="268438881" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="45" pc="268438910" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="49" pc="268439004" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="54" lineNum="57" pc="268439038" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="54" lineNum="58" pc="268439042" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="54" lineNum="59" pc="268439064" symbol="initialize"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="62" pc="268439077" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="63" pc="268439081" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="64" pc="268439106" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="66" pc="268439131" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="67" pc="268439149" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="68" pc="268439178" symbol="genSubDivisionLines"/>
-        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="72" pc="268439272" symbol="genSubDivisionLines"/>
-        <entry filename="Rez" id="61" lineNum="15" pc="268439306" symbol="MainLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="65" pc="268437490" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="66" pc="268437501" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="70" pc="268437554" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="71" pc="268437600" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="72" pc="268437646" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="73" pc="268437682" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="74" pc="268437696" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="75" pc="268437732" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/ChartDataLine.mc" id="20" lineNum="76" pc="268437756" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="22" lineNum="3" pc="268437787" symbol="normalizeValues"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="22" lineNum="4" pc="268437799" symbol="normalizeValues"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="23" lineNum="7" pc="268437812" symbol="scaleValIntoRange"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="23" lineNum="8" pc="268437824" symbol="scaleValIntoRange"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="11" pc="268437846" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="12" pc="268437858" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="14" pc="268437861" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="15" pc="268437885" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="16" pc="268437892" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="18" pc="268437902" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="19" pc="268437913" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="24" lineNum="22" pc="268437936" symbol="getMaxValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="25" pc="268437940" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="26" pc="268437952" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="28" pc="268437955" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="29" pc="268437979" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="30" pc="268437986" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="32" pc="268437996" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="33" pc="268438007" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/MathHelpers.mc" id="25" lineNum="36" pc="268438030" symbol="getMinValueInArray"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="28" lineNum="8" pc="268438034" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="28" lineNum="9" pc="268438038" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="28" lineNum="10" pc="268438057" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="29" lineNum="13" pc="268438077" symbol="distanceTo"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="29" lineNum="15" pc="268438081" symbol="distanceTo"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="24" pc="268438173" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="25" pc="268438177" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="26" pc="268438187" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="31" lineNum="27" pc="268438197" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="32" lineNum="30" pc="268438219" symbol="getLengthInPixels"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="32" lineNum="31" pc="268438223" symbol="getLengthInPixels"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="33" lineNum="34" pc="268438233" symbol="getStartPoint"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="33" lineNum="35" pc="268438237" symbol="getStartPoint"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="34" lineNum="38" pc="268438247" symbol="getEndPoint"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="34" lineNum="39" pc="268438251" symbol="getEndPoint"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="35" lineNum="42" pc="268438261" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Geometry.mc" id="35" lineNum="43" pc="268438265" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="37" lineNum="8" pc="268438334" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="37" lineNum="9" pc="268438338" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="38" lineNum="13" pc="268438357" symbol="onLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="38" lineNum="14" pc="268438361" symbol="onLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="38" lineNum="15" pc="268438398" symbol="onLayout"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="39" lineNum="21" pc="268438436" symbol="onShow"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="40" lineNum="25" pc="268438441" symbol="onUpdate"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="40" lineNum="27" pc="268438445" symbol="onUpdate"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="40" lineNum="28" pc="268438465" symbol="onUpdate"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartView.mc" id="41" lineNum="34" pc="268438486" symbol="onHide"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="43" lineNum="4" pc="268438491" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/StreamChartDelegate.mc" id="43" lineNum="5" pc="268438495" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="10" pc="268438514" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="11" pc="268438518" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="12" pc="268438558" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="46" lineNum="13" pc="268438578" symbol="draw"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="47" lineNum="16" pc="268438593" symbol="getLengthInPixels"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="47" lineNum="17" pc="268438597" symbol="getLengthInPixels"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="48" lineNum="20" pc="268438616" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="48" lineNum="21" pc="268438620" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="49" lineNum="24" pc="268438659" symbol="drawSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="49" lineNum="25" pc="268438663" symbol="drawSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="49" lineNum="26" pc="268438693" symbol="drawSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="51" lineNum="34" pc="268438730" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="51" lineNum="35" pc="268438734" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="51" lineNum="36" pc="268438756" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="39" pc="268438769" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="40" pc="268438773" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="41" pc="268438798" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="43" pc="268438823" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="44" pc="268438841" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="45" pc="268438870" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="52" lineNum="49" pc="268438964" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="54" lineNum="57" pc="268438998" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="54" lineNum="58" pc="268439002" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="54" lineNum="59" pc="268439024" symbol="initialize"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="62" pc="268439037" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="63" pc="268439041" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="64" pc="268439066" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="66" pc="268439091" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="67" pc="268439109" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="68" pc="268439138" symbol="genSubDivisionLines"/>
+        <entry filename="/Users/matthiasherrmann/eclipse-workspace/StreamChart/source/Axes.mc" id="55" lineNum="72" pc="268439232" symbol="genSubDivisionLines"/>
+        <entry filename="Rez" id="61" lineNum="15" pc="268439266" symbol="MainLayout"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388644" module="true" symbol="System"/>
@@ -292,60 +291,60 @@
         <entry endPc="268436928" name="xAxis" stackId="3" startPc="268436745"/>
         <entry endPc="268437132" name="observedValue" stackId="2" startPc="268437035"/>
         <entry endPc="268437145" name="i" stackId="1" startPc="268437035"/>
-        <entry endPc="268437581" name="line" stackId="11" startPc="268437230"/>
-        <entry endPc="268437581" name="x2" stackId="6" startPc="268437230"/>
-        <entry endPc="268437581" name="x1" stackId="5" startPc="268437230"/>
-        <entry endPc="268437581" name="point2" stackId="10" startPc="268437230"/>
-        <entry endPc="268437581" name="y2" stackId="8" startPc="268437230"/>
-        <entry endPc="268437581" name="point1" stackId="9" startPc="268437230"/>
-        <entry endPc="268437581" name="y1" stackId="7" startPc="268437230"/>
-        <entry endPc="268437594" name="i" stackId="4" startPc="268437230"/>
-        <entry endPc="268437826" name="i" stackId="12" startPc="268437796"/>
-        <entry endPc="268437826" name="linesToDraw" stackId="3" startPc="268437150"/>
-        <entry endPc="268437826" name="fillPolygonCoordinates" stackId="2" startPc="268437150"/>
-        <entry endPc="268437827" name="dc" stackId="1" startPc="268437146"/>
-        <entry endPc="268437852" name="maxObserved" stackId="3" startPc="268437827"/>
-        <entry endPc="268437852" name="minObserved" stackId="2" startPc="268437827"/>
-        <entry endPc="268437852" name="val" stackId="1" startPc="268437827"/>
-        <entry endPc="268437886" name="lowerBoundary" stackId="4" startPc="268437852"/>
-        <entry endPc="268437886" name="maxObserved" stackId="2" startPc="268437852"/>
-        <entry endPc="268437886" name="minObserved" stackId="3" startPc="268437852"/>
-        <entry endPc="268437886" name="upperBoundary" stackId="5" startPc="268437852"/>
-        <entry endPc="268437886" name="val" stackId="1" startPc="268437852"/>
-        <entry endPc="268437976" name="i" stackId="3" startPc="268437925"/>
-        <entry endPc="268437979" name="maxSeen" stackId="2" startPc="268437898"/>
-        <entry endPc="268437980" name="array" stackId="1" startPc="268437886"/>
-        <entry endPc="268438070" name="i" stackId="3" startPc="268438019"/>
-        <entry endPc="268438073" name="minSeen" stackId="2" startPc="268437992"/>
-        <entry endPc="268438074" name="array" stackId="1" startPc="268437980"/>
-        <entry endPc="268438117" name="x" stackId="1" startPc="268438074"/>
-        <entry endPc="268438117" name="y" stackId="2" startPc="268438074"/>
-        <entry endPc="268438213" name="otherPoint" stackId="1" startPc="268438117"/>
-        <entry endPc="268438259" name="endPoint" stackId="2" startPc="268438213"/>
-        <entry endPc="268438259" name="startPoint" stackId="1" startPc="268438213"/>
-        <entry endPc="268438374" name="dc" stackId="1" startPc="268438301"/>
-        <entry endPc="268438476" name="dc" stackId="1" startPc="268438397"/>
-        <entry endPc="268438526" name="dc" stackId="1" startPc="268438481"/>
-        <entry endPc="268438633" name="dc" stackId="1" startPc="268438554"/>
-        <entry endPc="268438699" name="p2" stackId="2" startPc="268438656"/>
-        <entry endPc="268438699" name="p1" stackId="1" startPc="268438656"/>
-        <entry endPc="268438769" name="i" stackId="2" startPc="268438733"/>
-        <entry endPc="268438770" name="dc" stackId="1" startPc="268438699"/>
-        <entry endPc="268438809" name="p2" stackId="2" startPc="268438770"/>
-        <entry endPc="268438809" name="p1" stackId="1" startPc="268438770"/>
-        <entry endPc="268439024" name="xPointOfLine" stackId="4" startPc="268438881"/>
-        <entry endPc="268439024" name="subdivisionLine" stackId="5" startPc="268438881"/>
-        <entry endPc="268439037" name="i" stackId="3" startPc="268438881"/>
-        <entry endPc="268439037" name="bottomY" stackId="2" startPc="268438813"/>
-        <entry endPc="268439037" name="originX" stackId="1" startPc="268438813"/>
-        <entry endPc="268439077" name="p2" stackId="2" startPc="268439038"/>
-        <entry endPc="268439077" name="p1" stackId="1" startPc="268439038"/>
-        <entry endPc="268439292" name="yPointOfLine" stackId="4" startPc="268439149"/>
-        <entry endPc="268439292" name="subdivisionLine" stackId="5" startPc="268439149"/>
-        <entry endPc="268439305" name="i" stackId="3" startPc="268439149"/>
-        <entry endPc="268439305" name="originX" stackId="2" startPc="268439081"/>
-        <entry endPc="268439305" name="bottomY" stackId="1" startPc="268439081"/>
-        <entry endPc="268439319" name="dc" stackId="1" startPc="268439306"/>
+        <entry endPc="268437541" name="line" stackId="11" startPc="268437230"/>
+        <entry endPc="268437541" name="x2" stackId="6" startPc="268437230"/>
+        <entry endPc="268437541" name="x1" stackId="5" startPc="268437230"/>
+        <entry endPc="268437541" name="point2" stackId="10" startPc="268437230"/>
+        <entry endPc="268437541" name="y2" stackId="8" startPc="268437230"/>
+        <entry endPc="268437541" name="point1" stackId="9" startPc="268437230"/>
+        <entry endPc="268437541" name="y1" stackId="7" startPc="268437230"/>
+        <entry endPc="268437554" name="i" stackId="4" startPc="268437230"/>
+        <entry endPc="268437786" name="i" stackId="12" startPc="268437756"/>
+        <entry endPc="268437786" name="linesToDraw" stackId="3" startPc="268437150"/>
+        <entry endPc="268437786" name="fillPolygonCoordinates" stackId="2" startPc="268437150"/>
+        <entry endPc="268437787" name="dc" stackId="1" startPc="268437146"/>
+        <entry endPc="268437812" name="maxObserved" stackId="3" startPc="268437787"/>
+        <entry endPc="268437812" name="minObserved" stackId="2" startPc="268437787"/>
+        <entry endPc="268437812" name="val" stackId="1" startPc="268437787"/>
+        <entry endPc="268437846" name="lowerBoundary" stackId="4" startPc="268437812"/>
+        <entry endPc="268437846" name="maxObserved" stackId="2" startPc="268437812"/>
+        <entry endPc="268437846" name="minObserved" stackId="3" startPc="268437812"/>
+        <entry endPc="268437846" name="upperBoundary" stackId="5" startPc="268437812"/>
+        <entry endPc="268437846" name="val" stackId="1" startPc="268437812"/>
+        <entry endPc="268437936" name="i" stackId="3" startPc="268437885"/>
+        <entry endPc="268437939" name="maxSeen" stackId="2" startPc="268437858"/>
+        <entry endPc="268437940" name="array" stackId="1" startPc="268437846"/>
+        <entry endPc="268438030" name="i" stackId="3" startPc="268437979"/>
+        <entry endPc="268438033" name="minSeen" stackId="2" startPc="268437952"/>
+        <entry endPc="268438034" name="array" stackId="1" startPc="268437940"/>
+        <entry endPc="268438077" name="x" stackId="1" startPc="268438034"/>
+        <entry endPc="268438077" name="y" stackId="2" startPc="268438034"/>
+        <entry endPc="268438173" name="otherPoint" stackId="1" startPc="268438077"/>
+        <entry endPc="268438219" name="endPoint" stackId="2" startPc="268438173"/>
+        <entry endPc="268438219" name="startPoint" stackId="1" startPc="268438173"/>
+        <entry endPc="268438334" name="dc" stackId="1" startPc="268438261"/>
+        <entry endPc="268438436" name="dc" stackId="1" startPc="268438357"/>
+        <entry endPc="268438486" name="dc" stackId="1" startPc="268438441"/>
+        <entry endPc="268438593" name="dc" stackId="1" startPc="268438514"/>
+        <entry endPc="268438659" name="p2" stackId="2" startPc="268438616"/>
+        <entry endPc="268438659" name="p1" stackId="1" startPc="268438616"/>
+        <entry endPc="268438729" name="i" stackId="2" startPc="268438693"/>
+        <entry endPc="268438730" name="dc" stackId="1" startPc="268438659"/>
+        <entry endPc="268438769" name="p2" stackId="2" startPc="268438730"/>
+        <entry endPc="268438769" name="p1" stackId="1" startPc="268438730"/>
+        <entry endPc="268438984" name="xPointOfLine" stackId="4" startPc="268438841"/>
+        <entry endPc="268438984" name="subdivisionLine" stackId="5" startPc="268438841"/>
+        <entry endPc="268438997" name="i" stackId="3" startPc="268438841"/>
+        <entry endPc="268438997" name="bottomY" stackId="2" startPc="268438773"/>
+        <entry endPc="268438997" name="originX" stackId="1" startPc="268438773"/>
+        <entry endPc="268439037" name="p2" stackId="2" startPc="268438998"/>
+        <entry endPc="268439037" name="p1" stackId="1" startPc="268438998"/>
+        <entry endPc="268439252" name="yPointOfLine" stackId="4" startPc="268439109"/>
+        <entry endPc="268439252" name="subdivisionLine" stackId="5" startPc="268439109"/>
+        <entry endPc="268439265" name="i" stackId="3" startPc="268439109"/>
+        <entry endPc="268439265" name="originX" stackId="2" startPc="268439041"/>
+        <entry endPc="268439265" name="bottomY" stackId="1" startPc="268439041"/>
+        <entry endPc="268439279" name="dc" stackId="1" startPc="268439266"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
