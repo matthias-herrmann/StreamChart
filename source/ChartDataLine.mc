@@ -45,9 +45,9 @@ module StreamChart{
   }
   
   function draw(dc) {
-    var fillPolygonCoordinates = [];
-    fillPolygonCoordinates.add([minX, minY]);
-    var linesToDraw = [];
+    var fillPolygonCoordinates = new [52];
+    fillPolygonCoordinates[0] = [minX, minY];
+    var linesToDraw = new [49];
     
      // construct and draw lines
     for(var i=1; i < 50; ++i) {
@@ -60,20 +60,22 @@ module StreamChart{
       var point1 = new Geo.Point(x1, y1);
       var point2 = new Geo.Point(x2, y2);
       var line = new Geo.Line(point1, point2);    
-      linesToDraw.add(line);
+      linesToDraw[i-1] = line;
       if(fillPolygonCoordinates.size() == 0) {
-        fillPolygonCoordinates.addAll([[x1, y1], [x2, y2]]);
+        fillPolygonCoordinates[i] = [x1, y1];
+        fillPolygonCoordinates[i+1] = [x2, y2];
       } else {
-      	fillPolygonCoordinates.add([x2, y2]);
+      	fillPolygonCoordinates[i] = [x2, y2];
       }
      
     }
     
-    fillPolygonCoordinates.addAll([[maxX, minY], [minX, minY]]);
-    dc.setColor(Graphics.COLOR_GREEN, Graphics.COLOR_GREEN);
+    fillPolygonCoordinates[50] = [maxX, minY];
+    fillPolygonCoordinates[51] = [minX, minY];
+    dc.setColor(Graphics.COLOR_ORANGE, Graphics.COLOR_ORANGE);
     dc.fillPolygon(fillPolygonCoordinates);
     dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
-    for(var i=0; i < linesToDraw.size(); ++ i) {
+    for(var i=0; i < linesToDraw.size(); ++i) {
        linesToDraw[i].draw(dc);
     }
   }
