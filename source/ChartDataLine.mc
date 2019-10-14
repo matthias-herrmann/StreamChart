@@ -45,37 +45,20 @@ module StreamChart{
   }
   
   function draw(dc) {
-    var fillPolygonCoordinates = new [53];
-    fillPolygonCoordinates[0] = [minX, minY];
-    var linesToDraw = new [49];
-    
-     // construct and draw lines
-    for(var i=1; i < 50; ++i) {
-      var x1 = minX + xAxis.getLengthInPixels() * ((i - 1) / 49.0d);                  
-      var x2 = minX + xAxis.getLengthInPixels() * (i / 49.0d);
-            
-      var y1 = yRelativePixels[i-1];
-      var y2 = yRelativePixels[i];
-                             
-      var point1 = new Geo.Point(x1, y1);
-      var point2 = new Geo.Point(x2, y2);
-      var line = new Geo.Line(point1, point2);    
-      linesToDraw[i-1] = line;
-      fillPolygonCoordinates[i] = [x1, y1];
-      if(i == 49) {
-        fillPolygonCoordinates[i+1] = [x2, y2];
-      }
-    }
-    
-    fillPolygonCoordinates[51] = [maxX, minY];
-    fillPolygonCoordinates[52] = [minX, minY];
-    dc.setColor(Graphics.COLOR_ORANGE, Graphics.COLOR_ORANGE);
-    dc.fillPolygon(fillPolygonCoordinates);
     dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
-    for(var i=0; i < linesToDraw.size(); ++i) {
-       linesToDraw[i].draw(dc);
+
+     // construct and draw lines
+    for(var i=0; i < 49; ++i) {
+      // for the first point the x coordinate is in the origin
+      var x1 = minX + xAxis.getLengthInPixels() * (i / 49.0d);                                   
+      var y1 = yRelativePixels[i];
+      var x2 = minX + xAxis.getLengthInPixels() * ((i+1) / 49.0d);    
+      var y2 = yRelativePixels[i+1];
+      dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_BLACK);
+      dc.drawLine(x1, y1, x2, y2);  
+      dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_RED);  
+      dc.fillPolygon([[x1, minY], [x1, y1], [x2, y2], [x2, minY]]);    
     }
-  }
-  
+  }  
  }
 }
