@@ -6,6 +6,7 @@
    using Toybox.System;
    using Geometry as Geo;
    using MathHelpers as Mh;
+   using ChartInterpolation as Ci;
  
    class Chart {
      hidden var options;
@@ -40,6 +41,7 @@
      	var minY = corners["bottomLeftCorner"].y.toDouble();
      	var minX = corners["bottomLeftCorner"].x.toDouble();     	    	
      	
+     	var interp = new Ci.Interpolator([0, 25, 50], [0, 50, 90]);
      	var allObservedValues = new [50];
         
      	for(var i=0; i < 50; ++i) {     		

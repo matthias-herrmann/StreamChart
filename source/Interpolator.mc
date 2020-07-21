@@ -101,7 +101,7 @@ module ChartInterpolation {
   		self.xsLength = xs.size();
   		
   		// consecutive differences and slopes
-  		for(var i=0; i < self.xsLength; ++i) {
+  		for(var i=0; i < self.xsLength - 1; ++i) {
   		  var dx = self.xs[i + 1] - self.xs[i];
   		  var dy = self.ys[i + 1] - self.ys[i];
   		  self.dxs.add(dx);
@@ -113,7 +113,7 @@ module ChartInterpolation {
   		self.c1s = [self.ms[0]];
   		var dxsLength = self.dxs.size();
   		
-  		for(var i=0; i < dxsLength; ++i) {
+  		for(var i=0; i < dxsLength - 1; ++i) {
   			var m = self.ms[i];
   			var mNext = self.ms[i + 1];
   			if(m*mNext <= 0) {
@@ -127,10 +127,11 @@ module ChartInterpolation {
   		}
   		
   		// TODO: Check if -1 works as expected
-  		self.c1s.add(self.ms[-1]);
+  		var lastM = self.ms[ms.size() - 1];
+  		self.c1s.add(lastM);
   		
   		var c1sLength = self.c1s.size();
-  		for(var i=0; i < c1sLength; ++i) {
+  		for(var i=0; i < c1sLength - 1; ++i) {
   		  var c1 = self.c1s[i];
   		  var m_ = self.ms[i];
   		  var invDx = 1/self.dxs[i];
