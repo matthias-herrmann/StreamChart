@@ -8,6 +8,8 @@ module ChartInterpolation {
   	private var ms;
   	private var xsLength;
   	private var c1s;
+  	private var c2s;
+  	private var c3s;
   	
   	// requires 3 points to start with
   	function initialize(xs, ys) {
@@ -17,6 +19,8 @@ module ChartInterpolation {
   		self.dxs = [];
   		self.ms = [];
   		self.c1s = [];
+  		self.c2s = [];
+  		self.c3s = [];
   		
   		self.xsLength = xs.size();
   		
@@ -44,6 +48,19 @@ module ChartInterpolation {
   			  var common = dx_ + dxNext;
   			  self.c1s.add(3*common/((common + dxNext)/m + (common + dx_)/mNext));
   			}
+  		}
+  		
+  		// TODO: Check if -1 works as expected
+  		self.c1s.add(self.ms[-1]);
+  		
+  		var c1sLength = self.c1s.size();
+  		for(var i=0; i < c1sLength; ++i) {
+  		  var c1 = self.c1s[i];
+  		  var m_ = self.ms[i];
+  		  var invDx = 1/self.dxs[i];
+  		  var common_ = c1 + self.c1s[i + 1] - m_ - m_;
+  		  self.c2s.add((m_ - c1 - common_)*invDx);
+  		  self.c3s.add(common_*invDx*invDx);
   		}
   	}
   }
