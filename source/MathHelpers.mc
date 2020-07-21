@@ -11,6 +11,13 @@ module MathHelpers {
    function scaleValIntoRange(val, maxObserved, minObserved, lowerBoundary, upperBoundary) {
        return (upperBoundary - lowerBoundary) * ((val - minObserved) / (maxObserved - minObserved)) + lowerBoundary;
    }
+   
+   function max(val, otherVal) {
+     if (otherVal > val) {
+     	return otherVal;
+     } 
+     return val;
+   }
      
    function getMaxValueInArray(array) {
      var maxSeen = null;
